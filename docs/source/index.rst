@@ -9,3 +9,4 @@ https://nvk0x.github.io
 
    draft/OIP-3
    changelog.html
+   changelog
